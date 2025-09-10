@@ -1,13 +1,13 @@
 
-# ==========================================================
+
 # 📘 PDF to MCQ Generator
-# ==========================================================
+
 # This project:
 #   1. Extracts text from a PDF
 #   2. Uses Ollama (LLaMA 3) + LangChain to generate MCQs
 #   3. Saves MCQs into a new PDF
 #   4. Runs an interactive quiz in the terminal
-# ==========================================================
+
 
 # ----------------------------------------------------------
 # 🚀 Features
